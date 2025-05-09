@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sudamachhetri@gmail.com**
 
-- 📄 Know about my experiences [https://sudama-chhetri.tiiny.site](https://sudama-chhetri.tiiny.site)
+- 📄 Know about my experiences https://sudamachhetriresume.tiiny.site
 
 - ⚡ Fun fact **I am funny**
 
