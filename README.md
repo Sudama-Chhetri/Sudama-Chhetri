@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudama-chhetri&label=Profile%20views&color=0e75b6&style=flat" alt="sudama-chhetri" /> </p>
 
-- 🌱 I’m currently learning **Complete Data Analyst Bootcamp From Basics To Advanced Complete Data Analyst Bootcamp From Basics To Advanced**
+- 🌱 I’m currently learning **Complete Data Analyst Bootcamp From Basics To Advanced **
 
 - 📫 How to reach me **sudamachhetri@gmail.com**
 
